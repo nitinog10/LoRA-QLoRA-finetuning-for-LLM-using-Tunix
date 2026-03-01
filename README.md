@@ -151,4 +151,4 @@ Built on top of Hugging Face Transformers, BitsAndBytes, and PEFT.
 
 ---
 
-If you'd like a **custom banner**, **GIFs**, or **badges** (stars, forks, license), I can add them too.
+If you'd like a **custom banner**, **GIFs**,
