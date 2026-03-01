@@ -149,6 +149,3 @@ Specify a license if you plan to share publicly.
 
 Built on top of Hugging Face Transformers, BitsAndBytes, and PEFT.
 
----
-
-If you'd like a **custom banner**, **GIFs**,
